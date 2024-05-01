@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor full-stack
 - 📚 Focando em back-end
-- 🌱 Estudando Node.js
 - 😄 Pronomes: Ele/dele
 - 🎮 Curto malhar e jogar jogos eletônicos
 - 💡 Prezo e valorizo organização, respeito e assiduidade
