@@ -4,7 +4,7 @@
 - 📚 Focando em back-end
 - 😄 Pronomes: Ele/dele
 - 🎮 Curto malhar e jogar jogos eletônicos
-- 💡 Prezo e valorizo organização, respeito e assiduidade
+- 💡 Prezo organização, respeito e assiduidade
 
 
 <div>
