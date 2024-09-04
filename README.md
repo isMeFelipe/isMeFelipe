@@ -25,7 +25,9 @@
   <img align="center" alt="Felipe-mySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"">
   <img align="center" alt="Felipe-Mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Felipe-Swagger" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Felipe-Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">    
+  <img align="center" alt="Felipe-Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
+  <img align="center" alt="Felipe-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+          
 </div>
 <hr>
 
