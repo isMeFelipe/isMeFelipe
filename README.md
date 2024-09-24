@@ -2,7 +2,7 @@
 # Hi 👋🏽, I'm Felipe Moura
 
 - 💻 Currently studying Computer Science
-- 🔭 Learning and improving JavaScript, php, React.js, Laravel and Node.js
+- 🔭 Learning and improving JavaScript, PHP, React.js, Laravel and Node.js
 - 🧐 Working to be a massive back-end developer
 - 🎮 Game lover
 
