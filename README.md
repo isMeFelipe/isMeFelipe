@@ -1,5 +1,5 @@
 
-# Hi 👋🏽, I'm Felipe Moura
+# Hi 👋, I'm Felipe Moura
 
 - 💻 Currently studying Computer Science
 - 🔭 Learning and improving JavaScript, PHP, React.js, Laravel and Node.js
